@@ -1,0 +1,11 @@
+.shooter-1 .target li:nth-child(2),
+.shooter-1 .target li:last-child{
+    background-color:red;
+}
+.shooter-2 .target li,
+.shooter-1 .target li{
+  background-color:white;  
+}
+.shooter-2 .target li:first-child{
+  background-color:red;  
+}
