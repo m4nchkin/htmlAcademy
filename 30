@@ -1,0 +1,7 @@
+body {
+  background-color: black;
+  background-image: url("moon.jpg");
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
