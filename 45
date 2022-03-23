@@ -1,0 +1,10 @@
+ul li:first-child {
+  background-color: #ff3300;
+}
+
+ul:first-of-type li {
+  background-color: #339933;
+}
+ul:first-of-type li:first-child{
+  background-color: #0099ff;  
+}
