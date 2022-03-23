@@ -1,0 +1,9 @@
+.cards:nth-last-child(2) li {
+  background-color: #ff3300;
+}
+.cards li:nth-last-child(2){
+  background-color: #339933;  
+}
+.cards:nth-last-child(2) li.queen:not(.spade){
+  background-color:#0099ff !important;  
+}
