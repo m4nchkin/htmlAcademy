@@ -1,0 +1,9 @@
+ul li:last-child{
+  background-color: #ff3300;  
+}
+ul:last-of-type li{
+  background-color: #339933;  
+}
+ul:last-of-type li:last-child{
+  background-color: #0099ff;  
+}
