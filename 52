@@ -1,0 +1,11 @@
+ul:empty{
+  height: 70px;
+  border: 2px dashed #55bb99;
+}
+.cards li:not(:empty){
+  width:  60px;
+  height: 90px;
+}
+.cards li:not(:empty) span{
+  display:  block;  
+}
